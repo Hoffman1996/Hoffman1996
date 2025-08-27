@@ -23,9 +23,8 @@ Feel free to explore my pinned repositories below or reach out via LinkedIn or c
 ![](https://github-profile-trophy.vercel.app/?username=Hoffman1996&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hoffman1996&icon=10&color=0)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoffman1996&layout=donut-vertical)](https://github.com/Hoffman1996/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoffman1996&layout=pie&theme=dark)](https://github.com/Hoffman1996/github-readme-stats)
 
 
 
