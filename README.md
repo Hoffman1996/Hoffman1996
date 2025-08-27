@@ -27,7 +27,7 @@ Feel free to explore my pinned repositories below or reach out via LinkedIn or c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoffman1996&langs_count=8&layout=pie&theme=dark)](https://github.com/Hoffman1996/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoffman1996&langs_count=8&hide=Jupyter)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoffman1996&langs_count=8&hide=JupyterNotebook)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
