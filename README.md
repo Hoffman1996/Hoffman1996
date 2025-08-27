@@ -25,6 +25,8 @@ Feel free to explore my pinned repositories below or reach out via LinkedIn or c
 ---
 [![](https://visitcount.itsvg.in/api?id=Hoffman1996&icon=10&color=0)](https://visitcount.itsvg.in)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoffman1996&layout=donut)](https://github.com/Hoffman1996/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoffman1996&langs_count=8)
 
