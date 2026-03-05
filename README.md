@@ -22,4 +22,6 @@ I enjoy solving complex technical challenges, working close to the hardware, and
 
 ![Top Langs](https://github-readme-stats-steel-delta-62.vercel.app/api/top-langs/?username=Hoffman1996&layout=compact&theme=dark&count_private=true)
 
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=Hoffman1996&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
