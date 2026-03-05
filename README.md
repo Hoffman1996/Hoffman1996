@@ -23,9 +23,4 @@ I enjoy solving complex technical challenges, working close to the hardware, and
 
 ![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hoffman1996&layout=compact&theme=dark)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-profile-trophy.vercel.app/?username=Hoffman1996&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
