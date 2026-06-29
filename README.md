@@ -10,7 +10,6 @@ I enjoy solving complex technical challenges, working close to the hardware, and
 
 📫 Reach me at **theyuvalhoffman@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/yuval-hoffman)
 
-<br>
 
 # 💻 Tech Stack:
 <code><img height="26" alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
