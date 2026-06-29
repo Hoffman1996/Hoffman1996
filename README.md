@@ -1,6 +1,6 @@
 # About Me:
 ### Hi there 👋
-I'm Yuval, a B.Sc. Software Engineering graduate from Afeka Academic College of Engineering.
+I'm Yuval, a Junion Software Engineer with a B.Sc. in Software Engineering.
 
 I build end-to-end **Computer Vision systems**, **Machine Learning pipelines**, and **backend services** in Python, Java, and C.
 
@@ -13,15 +13,22 @@ I enjoy solving complex technical challenges, working close to the hardware, and
 <br>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-FF6C37?style=for-the-badge&logo=ultralytics&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-525252?style=for-the-badge&logo=processor&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=Google%20Colab&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<code><img height="26" alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
+<code><img height="26" alt="Java" src="https://img.shields.io/badge/java-23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black"></code>
+<code><img height="26" alt="C" src="https://img.shields.io/badge/(90)-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"></code>
+<code><img height="26" alt="HTML" src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="26" alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS%20Assembly-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white"></code>
+<code><img height="26" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="26" alt="System Programming" src="https://img.shields.io/badge/System%20Programming-A42E2B?style=for-the-badge&logo=gnu&logoColor=whitelogoColor=white"></code>
+<code><img height="26" alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hoffman1996&theme=dark&hide_border=false)
 
-![GitHub Stats](https://github-readme-stats-steel-delta-62.vercel.app/api?username=Hoffman1996&show_icons=true&theme=dark&count_private=true)
+| <a href="https://github.com/Hoffman1996/github-readme-stats"><img align="center" src="https://github-readme-stats-steel-delta-62.vercel.app/api?username=Hoffman1996&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Hoffman1996's github stats" /></a> | <a href="https://github.com/Hoffman1996/github-readme-stats"><img align="right" src="https://github-readme-stats-steel-delta-62.vercel.app/api/top-langs/?username=Hoffman1996&layout=compact&theme=radical&hide_border=true" /></a> | 
+| ------------- | ------------- |
 
-![Top Langs](https://github-readme-stats-steel-delta-62.vercel.app/api/top-langs/?username=Hoffman1996&layout=compact&theme=dark&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hoffman1996&theme=radical&hide_border=false)
 
-![](https://github-profile-trophy.screw-hand.vercel.app/?username=Hoffman1996&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=Hoffman1996&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
